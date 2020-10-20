@@ -1,4 +1,4 @@
-# Illustrates an API call to Datafiniti's Product Database for hotels.
+# Datafiniti's Property Database
 import requests
 # import urllib.parse
 import json
